@@ -18,5 +18,10 @@ It’s always Input, Process, Output.
 ## 🥨 Twists
 - Timing is everything. It is often helpful to let people search for a quote using the author or a certain topic.
 
+## Recommended learning:
+- How to load a CSV: Table
+- How to load an image
+- GET in the context of API
+
 ## ⏳ Submissions:
 - Submission of this challenge, just like all of the Weekly Coder’s challenges, is to be submitted within 36 hours after its post. And so, Sunday morning 12:00 LT.
