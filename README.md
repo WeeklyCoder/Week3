@@ -12,6 +12,7 @@ Live wallpapers, option to choose categories, mark favorite, incorporate a suita
 
 ## 💡 Where to start? (Ideas)
 It’s always Input, Process, Output.
+- To get started, use **[this](https://github.com/WeeklyCoder/Week3/blob/main/WordsOfWisdom.pde)** bare minimum.
 - Let you start by loading a list of quotes. You could load the **[Quotes.csv](https://github.com/WeeklyCoder/Week3/blob/main/Quotes.csv)** provided as your source.
 - See how easily you could display a quote and its author on the screen.
 
